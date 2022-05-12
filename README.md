@@ -10,7 +10,9 @@ This repository contains three important files: The HTML code for your first web
 
 ## Describe your project
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+it is a website where librarian are able to login online and access the books data(issued,returned,avilable books etc.) aand also the information i.e.(student details,student_name,student_profile etc.) are able to view,insert and update it.
+
+sudent are also able to login online threw the website and see the profile ,returned date, avilable books and see the issued books history.
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
